@@ -1,0 +1,10 @@
+.vue-date-picker {
+    cursor: pointer;
+    background-color: #ffffff !important;
+}
+.cell-primary {
+    background-color: rgba(47, 255, 7, 0.1);
+}
+.cell-secondary {
+    background-color: rgba(255, 187, 70, 0.1);
+}
